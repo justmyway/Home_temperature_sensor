@@ -1,0 +1,4 @@
+# Exclude #
+
+# Configuration #
+/nodemcu_temprature_sketch/config.h
